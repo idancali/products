@@ -4,7 +4,10 @@
 <hr/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/idancali/cassi/master/logo.png" width="256px">
+<a href="http://github.com/idancali/cassi"> <img src="https://raw.githubusercontent.com/idancali/cassi/master/logo.png" width="256px">
+Cassi
+</a>
+
 
 <a href="http://github.com/idancali/cassi"> <h1 align="center"> Cassi </h1> </a>
 </p>
