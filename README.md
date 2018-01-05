@@ -1,5 +1,4 @@
 <h1 align="center"> Dan's Products  </h1>
-<p align="center"> A list of products created by I. Dan Calinescu  </p>
 
 <p align="center">
 <a href="http://github.com/idancali/cassi"> <img src="https://raw.githubusercontent.com/idancali/cassi/master/logo.png" width="128px">
